@@ -7,7 +7,7 @@ title: 获取积分
 
 ​	注意自己的 **积分** 。积分 在仪表盘页面显示。
 
-![JiFen](C:/Users/huang/Documents/LittleSkin%E6%8C%87%E5%8C%97/pic/JiFen.png "积分")
+![JiFen](images/JiFen.png "积分")
 
 ​	积分是在 LittleSkin 的通用货币。对于积分是什么玩意儿，在站内已有较为详细的说明，点击用户中心首页的积分文本即可查看。
 
@@ -23,7 +23,7 @@ title: 获取积分
 
 ​	在用户中心的 **仪表盘** 页面进行签到可以获取积分。
 
-![QianDao](.\pic\QianDao.png)
+![QianDao](images/QianDao.png)
 
 ​	每日签到可以获得 10 - 100 不等的随机数量的积分。
 
@@ -33,6 +33,6 @@ title: 获取积分
 
 ​	在皮肤库浏览材质详情页，右侧有举报材质入口。
 
-![JuBao](.\pic\JuBao.png)
+![JuBao](images/JuBao.png)
 
 ​	被举报的材质确认违规后，我们将删除材质并永久封禁上传者，而举报者将会得到 1K 积分的奖励。

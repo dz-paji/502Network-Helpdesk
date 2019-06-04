@@ -16,11 +16,11 @@ title: 设定材质
 
 从用户中心进入皮肤库，页面右上角有 **上传** 入口。
 
-![上传入口](.\pic\ShangChuanRK.png)
+![上传入口](images/ShangChuanRK.png)
 
 进入后，按照提示填写各项信息，选择要上传的材质文件，点击 **确认上传** 完成上传。
 
-![上传页面](.\pic\ShangChuan.png)
+![上传页面](images/ShangChuan.png)
 
 ***关于哪些材质应该设置私密等注意事项参照相关条目**
 
@@ -38,8 +38,8 @@ title: 设定材质
 
 在 **我的衣柜** 界面，每一个皮肤缩略图右下角都有一个小齿轮的标志，是对皮肤其他操作的入口。
 
-![设置头像](.\pic\ChiLun.png)
+![设置头像](images/ChiLun.png)
 
 点击小齿轮图标，在下拉菜单中选择 **设为头像** ，皮肤站即截取该皮肤的面部设置为用户头像。
 
-![TouXiang](.\pic\TouXiang.png)
+![TouXiang](images/TouXiang.png)

@@ -1,6 +1,6 @@
 ---
 home: false 
-heroImage: /images/vuejsradar.png
+# heroImage: /images/vuejsradar.png
 actionText: 开始
 actionLink: /welcome
 features:
