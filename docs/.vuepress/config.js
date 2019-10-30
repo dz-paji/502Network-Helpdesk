@@ -3,7 +3,7 @@ module.exports = {
   description: '502Network 知识库，pterodactyl 面板使用手册',
   themeConfig: {
     docsDir: 'docs',
-    repo: 'dz-apji/502Network-knowledge-base',
+    repo: 'dz-paji/502Network-knowledge-base',
     sidebar: [
       '/',
       '/test'
