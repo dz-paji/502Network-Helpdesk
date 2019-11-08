@@ -6,7 +6,7 @@ module.exports = {
     repo: 'dz-paji/502Network-knowledge-base',
     sidebar: [
       '/',
-      '/test'
+      '/mcpanel-explained'
     ],
     nav: [{
       text: 'Admin',
