@@ -1,6 +1,7 @@
 ---
 title: 欢迎来到 502Network 知识库
 lang: zh-CN
+permalink: /
 ---
 
 # 欢迎
