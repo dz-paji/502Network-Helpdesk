@@ -7,8 +7,7 @@ module.exports = {
     sidebar: [
       '/',
       '/mcpanel-explained',
-      '/snacks/',
-      '/检查端口是否开启/'
+      '/snacks/'
     ],
     nav: [{
       text: 'Admin',
