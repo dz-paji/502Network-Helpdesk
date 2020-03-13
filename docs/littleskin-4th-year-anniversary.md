@@ -29,12 +29,6 @@ title: LittleSkin 四年祭活动说明
 
 ### 地图规则
 
-#### TL; DR
-
-::: warn 注意
-不论如何，我们都建议你完整阅读这份说明。
-:::
-
 你可以在 [Bilibili](https://www.bilibili.com/video/av94844227) 或 [斗鱼视频](https://v.douyu.com/show/EO0XvNNkzDnvDrBd) 观看 LittleSkin 运营组试玩地图的直播回放录像。但请注意，录像中并没有完整地体现地图中所有的游戏元素，我们仍然建议你完整阅读这份说明。
 
 你也可以观看其他游戏主播制作的视频来熟悉这张地图。
