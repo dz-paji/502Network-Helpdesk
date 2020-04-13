@@ -7,7 +7,8 @@ module.exports = {
     sidebar: [
       '/',
       '/mcpanel-explained',
-      '/snacks/'
+      '/snacks/',
+      '/pterodactyl-api-docs/'
     ],
     nav: [{
       text: 'Admin',
