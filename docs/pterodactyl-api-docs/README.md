@@ -10,9 +10,9 @@ permalink: /pterodactyl-api-docs
 
 ## 索引
 
-[客户 API](/pterodactyl-api-docs/client)
-[应用 API - 用户](/pterodactyl-api-docs/user)
-[应用 API - 节点](/pterodactyl-api-docs/nodes)
-[应用 API - 位置](/pterodactyl-api-docs/location)
-[应用 API - 实例](/pterodactyl-api-docs/server)
-[应用 API - 环境](/pterodactyl-api-docs/eggs)
+* [客户 API](/pterodactyl-api-docs/client)
+* [应用 API - 用户](/pterodactyl-api-docs/user)
+* [应用 API - 节点](/pterodactyl-api-docs/nodes)
+* [应用 API - 位置](/pterodactyl-api-docs/location)
+* [应用 API - 实例](/pterodactyl-api-docs/server)
+* [应用 API - 环境](/pterodactyl-api-docs/eggs)
