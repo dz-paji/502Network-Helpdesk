@@ -212,3 +212,13 @@ lang: zh-CN
 ### 向实例发送指令
 
 使用此 API, 需要实例处于在线状态。
+
+此 API 地址为 `<domain name>/api/client/servers/<identifier>/command`. 请求方法为 `POST`.
+使用此方法，可以通过 identifier 向服务器发送指令。若发送成功，一个空的回复会被返回。
+
+#### 需要的参数
+
+| 参数   | 描述               |
+| ------ | ------------------ |
+| command | 将要传达的指令 |
+
